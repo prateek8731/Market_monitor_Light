@@ -1,4 +1,4 @@
-# Buffett Portfolio Monitor (Lightweight)
+#  Portfolio Monitor (Lightweight)
 
 This lightweight Streamlit app scrapes Berkshire Hathaway holdings (from Dataroma), fetches live prices via yfinance, and shows news headlines with VADER sentiment. It is optimized for quick deployment on Streamlit Cloud.
 
