@@ -1,6 +1,5 @@
-libxml2-dev
-libxslt-dev
-libffi-dev
-libssl-dev
 build-essential
-pkg-config
+libssl-dev
+libffi-dev
+libxml2-dev
+libxslt1-dev
